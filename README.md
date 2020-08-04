@@ -1,2 +1,2 @@
 # Airbnb
-Reproduction du site internet de Airbnb (Projet personnel)
+Reproduction du site internet de Airbnb en HTML/CSS (Projet personnel)
